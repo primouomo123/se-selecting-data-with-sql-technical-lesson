@@ -10,7 +10,7 @@ In this lesson, we'll go over how to:
 * Use SQL CASE statements to transform selected columns
 * Use built-in SQL functions to transform selected columns
 
-Fork and clone the GitHub Repo to follow along with this technical lesson. You can follow along with the walkthrough by coding each step in `select.py`, referring to the written instructions provided below, for a comprehensive understanding of selecting data with SQL. Be sure to run `pipenv install` and `pipenv shell` to get started, then `python3 select.py` to run the file as you go to see the print outputs.
+Fork and clone the GitHub Repo to follow along with this technical lesson. You can follow along with the walkthrough by coding each step in `main.py`, referring to the written instructions provided below, for a comprehensive understanding of selecting data with SQL. Be sure to run `pipenv install` and `pipenv shell` to get started, then `python3 main.py` to run the file as you go to see the print outputs.
 
 ## Tools & Resources
 
